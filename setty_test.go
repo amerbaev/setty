@@ -1,4 +1,4 @@
-package set
+package setty
 
 import (
 	"github.com/stretchr/testify/assert"

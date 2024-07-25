@@ -1,4 +1,4 @@
-module set
+module github.com/amerbaev/setty
 
 go 1.22
 

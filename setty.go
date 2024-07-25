@@ -1,4 +1,4 @@
-package set
+package setty
 
 func Intersect[K comparable](set1, set2 map[K]struct{}) map[K]struct{} {
 	intersection := make(map[K]struct{})
